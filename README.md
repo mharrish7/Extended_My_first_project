@@ -4,6 +4,8 @@
 # USAGE INSTRUCTIONS
    This has already been released on itch.io. Please show some support by downloading this on <a href="https://harrish7.itch.io/extended-war">itch.io</a>
    
+   Just download and run, hopefully it should run, btw This was created on 2015 :(
+   
 # Features
   Just copied the description, on intial release :)
   * A small 1,2 player tank fighting game for super fun!!! more updates soon
